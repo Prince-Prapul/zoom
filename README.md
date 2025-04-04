@@ -24,7 +24,7 @@ QuizBot for Zoom is a FastAPI-based backend application designed to automaticall
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/Prince-Prapul/zoom.git
     cd your_project_directory
     ```
 
