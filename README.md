@@ -1,4 +1,5 @@
-# QuizBot for Zoom - Automatic Quiz Generation from Meeting Transcripts
+
+# QuizBot(Backend) for Zoom - Automatic Quiz Generation from Meeting Transcripts
 
 HOME PAGE
 <img width="1779" alt="image" src="https://github.com/user-attachments/assets/58097f47-7a82-4837-9dfc-ded2d6d7b1f6" />
