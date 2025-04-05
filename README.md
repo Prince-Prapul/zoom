@@ -1,5 +1,16 @@
 # QuizBot for Zoom - Automatic Quiz Generation from Meeting Transcripts
 
+HOME PAGE
+<img width="1779" alt="image" src="https://github.com/user-attachments/assets/58097f47-7a82-4837-9dfc-ded2d6d7b1f6" />
+
+QUIZ LAYOUT
+<img width="1489" alt="image" src="https://github.com/user-attachments/assets/3f799b90-963d-437b-bf95-1f1893ee9e67" />
+
+
+FEEDBACK LAYOUT 
+<img width="1575" alt="image" src="https://github.com/user-attachments/assets/0011fec5-7a6b-49b5-a7b5-3464934be167" />
+
+
 ## Overview
 
 QuizBot for Zoom is a FastAPI-based backend application designed to automatically generate multiple-choice quizzes from Zoom meeting transcripts using the power of the Google Gemini AI. This project aims to help students and professionals actively review meeting content and test their understanding in an interactive way.
